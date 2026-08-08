@@ -1,0 +1,21 @@
+Audio Information:
+File: audio\English.wav
+Original Sample Rate: 44100 Hz
+Final Sample Rate: 16000 Hz
+Duration: 18.36 seconds
+------------------------------------------------------------------------------------------------
+Model Information:
+Model: facebook/wav2vec2-base-960h
+------------------------------------------------------------------------------------------------
+Pipeline Result:
+Transcript:
+THE STALE SMELL OF OLD BEER LINGERS IT TAKES HEAT TO BRING OUT THE ODOR A COLD DIP RESTORES HEALTH AND ZEST A SALT PICKLE TASTES FINE WITH HAM TAKOS AL PASTORE ARE MY FAVORITE A ZESTFUL FOOD IS THE HOT CROSS BUN
+Execution Time: 18.1380 seconds
+------------------------------------------------------------------------------------------------
+Direct Wav2Vec2 Result:
+Transcript:
+THE STALE SMELL OF OLD BEER LINGERS IT TAKES HEAT TO BRING OUT THE ODOR A COLD DIP RESTORES HEALTH AND ZEST A SALT PICKLE TASTES FINE WITH HAM TAKOS AL PASTORE ARE MY FAVORITE A ZESTFUL FOOD IS THE HOT CROSS BUN
+Execution Time: 4.2238 seconds
+------------------------------------------------------------------------------------------------
+Comparison:
+Transcript Match: True
